@@ -1,7 +1,9 @@
 <template>
   <div>
     <h2>AES (ECB) - Cifrar y Descifrar</h2>
-
+<!-- Cifrar -->
+ <!-- Cifrar -->
+  <!-- Cifrar -->
     <!-- Cifrar -->
     <h3>Cifrar</h3>
     <form @submit.prevent="encryptAES">
